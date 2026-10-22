@@ -1,0 +1,3 @@
+model,test_rows,mae,rmse,r2
+Linear Regression,179,18.8702,30.9202,0.3822
+Mean fare baseline,179,25.6925,39.3833,-0.0023

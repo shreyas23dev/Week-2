@@ -1,0 +1,6 @@
+model,test_rows,accuracy,precision,recall,f1,roc_auc
+Logistic Regression,179,0.8045,0.7931,0.6667,0.7244,0.8442
+Decision Tree,179,0.7933,0.8333,0.5797,0.6838,0.8198
+K-Nearest Neighbors,179,0.7877,0.8163,0.5797,0.6780,0.8336
+Random Forest,179,0.7709,0.7500,0.6087,0.6720,0.8495
+Most-frequent baseline,179,0.6145,0.0000,0.0000,0.0000,0.5000
